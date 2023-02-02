@@ -11,11 +11,11 @@
 .layout_post>#page,
 .layout_post>#post,
 .read-mode .layout_post>#post {
-  background: rgba(255, 255, 255, 0.8)
+  background: rgba(255, 255, 255, 0.2)
 }
 
 #aside-content .card-widget {
-  background: rgba(255, 255, 255, 0.8)
+  background: rgba(255, 255, 255, 0.2)
 }
 
 #post,
@@ -23,7 +23,7 @@
 #archive,
 #tag,
 #category {
-  background: rgba(255, 255, 255, 0.8)
+  background: rgba(255, 255, 255, 0.2)
 }
 
 .cardHover,
@@ -31,5 +31,5 @@
 #recent-posts>.recent-post-item,
 #aside-content .card-widget,
 .layout>.recent-posts .pagination>*:not(.space) {
-  background: rgba(255, 255, 255, 0.8)
+  background: rgba(255, 255, 255, 0.2)
 }
